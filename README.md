@@ -1,6 +1,5 @@
 # IRIS-Flower-Machine-Learning-Project
 
-To write a detailed README for your Iris machine learning project, it should cover all key aspects from setup to execution. Here's an example structure for the README file:
 
 Iris Machine Learning Project
 Project Overview
